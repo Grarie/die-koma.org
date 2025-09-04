@@ -44,12 +44,12 @@ order: 6
 | SS 2010    | KoMa 66                      | TU Dresden                   | 26.05.–30.05.2010                       |
 | WS 2009/10 | KoMa 65                      | Uni Graz                     | 04.12.–08.12.2009                       |
 | SS 2009    | KoMa 64                      | Uni Augsburg                 | 29.05.–02.06.2009                       |
-| WS 2008/09 | KoMa 63                      | Uni Paderborn                | 12.11.–16.11.2008                       |
+| WS 2008/09 | KoMa 63 (KIF 36.5)           | Uni Paderborn                | 12.11.–16.11.2008                       |
 | SS 2008    | KoMa 62                      | TU Chemnitz                  | 30.04.–04.05.2008                       |
 | WS 2007/08 | KoMa 61                      | FH Regensburg                | 21.11.–25.11.2007                       |
 | SS 2007    | KoMa 60                      | Uni Karlsruhe                | 16.05.–20.05.2007                       |
 | WS 2006/07 | KoMa 59                      | Uni Bielefeld                | 27.10.–01.11.2006                       |
-| SS 2006    | KoMa 58                      | Uni Oldenburg und Uni Bremen | 24.05.–28.05.2006                       |
+| SS 2006    | KoMa 58 (52 n.P.)            | Uni Oldenburg und Uni Bremen | 24.05.–28.05.2006                       |
 | WS 2005/06 | KoMa 57 (51 n.P.)            | Uni Duisburg-Essen           | 16.11.–20.11.2005                       |
 | SS 2005    | KoMa 56 (50 n.P.)            | ETH Zürich                   | 04.05.–08.05.2005                       |
 | WS 2004/05 | KoMa 55 (49 n.P.)            | TFH Berlin                   | 17.11.–21.11.2004                       |
@@ -58,7 +58,7 @@ order: 6
 | SS 2003    | KoMa 52 (46 n.P.)            | TU München                   | 28.05.–01.06.2003                       |
 | WS 2002/03 | KoMa 51 (45 n.P.)            | Uni Karlsruhe (TH)           | 31.10.–03.11.2002                       |
 | SS 2002    | KoMa 50 (44 n.P.)            | Uni Dortmund                 | 29.05.–02.06.2002                       |
-| WS 2001/02 | KoMa 49 (43 n.P.)            | Uni-GH Paderborn             | 31.10.–04.11.2001                       |
+| WS 2001/02 | KoMa 49 (43 n.P.) (KIF 29.5) | Uni-GH Paderborn             | 31.10.–04.11.2001                       |
 | SS 2001    | KoMa 48 (42 n.P.)            | TU München                   | 13.06.–17.06.2001                       |
 | WS 2000/01 | KoMa 47 (41 n.P.)            | Uni Stuttgart                | 01.11.–05.11.2000                       |
 | SS 2000    | KoMa 46 (40 n.P.)            | Uni Freiburg                 | 31.05.–04.06.2000                       |
